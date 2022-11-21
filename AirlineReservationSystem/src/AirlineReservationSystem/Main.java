@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Main {
     static ConsoleColors cc = new ConsoleColors();
 
+
     public static void main(String[] args) {
 
         Person person1 = new Person("Ali", "123 Street");
